@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#272525</color>
+    <color name="orange">#FF6F01</color>
+    <color name="backgroundBlue">#091461</color>
+    <color name="selectedBlue">#2558D8</color>
+    <color name="dailyThoughtBG">#FF51A2</color>
+</resources>
